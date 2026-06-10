@@ -17,7 +17,7 @@
 
 ---
 
-<img src="https://www.image2url.com/r2/default/images/1781064390776-11409603-5d04-4067-83ba-0ff8a31ba9ef.jpg" width="500" />
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=SONAL-THAKUR163)
 
 ## 🚀 About Me
 
