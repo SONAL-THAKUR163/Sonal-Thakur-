@@ -12,13 +12,10 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=Sonal-Thakur163 &label=PROFILE+VIEWS&color=blueviolet" />
 </p>
 
 ---
-
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=SONAL-THAKUR163)
-
 ## 🚀 About Me
 
 - 🔭 Working on **Full Stack Development**
