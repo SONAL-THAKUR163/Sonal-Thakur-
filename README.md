@@ -1,7 +1,8 @@
 <h1 align="center">Hello 🌻, I'm Sonal Thakur </h1>
 
 <h3 align="center">
-Full Stack Developer • DevOps Learner • Building with AI
+•Full Stack Developer 
+• DevOps Learner 
 </h3>
 
 <p align="center">
@@ -16,7 +17,7 @@ Full Stack Developer • DevOps Learner • Building with AI
 
 ---
 
-<img src="https:// https://www.image2url.com/r2/default/images/1781064390776-11409603-5d04-4067-83ba-0ff8a31ba9ef.jpg" width="500%" height ="500%"/>
+<img src="https://www.image2url.com/r2/default/images/1781064390776-11409603-5d04-4067-83ba-0ff8a31ba9ef.jpg" width="400" />
 
 ## 🚀 About Me
 
