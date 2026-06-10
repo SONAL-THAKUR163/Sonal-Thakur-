@@ -1,4 +1,4 @@
-<h1 align="center">Hello Coders👋, I'm Sonal Thakur </h1>
+<h1 align="center">Hello Coders👋, I am Sonal Thakur </h1>
 
 <h3 align="center">
 •Full Stack Developer 
