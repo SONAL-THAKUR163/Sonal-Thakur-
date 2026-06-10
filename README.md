@@ -1,4 +1,4 @@
-<h1 align="center">Hello 🌻, I'm Sonal Thakur </h1>
+<h1 align="center">Hello Coders👋, I'm Sonal Thakur </h1>
 
 <h3 align="center">
 •Full Stack Developer 
@@ -17,7 +17,7 @@
 
 ---
 
-<img src="https://www.image2url.com/r2/default/images/1781064390776-11409603-5d04-4067-83ba-0ff8a31ba9ef.jpg" width="400" />
+<img src="https://www.image2url.com/r2/default/images/1781064390776-11409603-5d04-4067-83ba-0ff8a31ba9ef.jpg" width="500" />
 
 ## 🚀 About Me
 
@@ -48,6 +48,6 @@
 
 ## 🌐 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/Sonal-Thakur)
+[LinkedIn](https://linkedin.com/in/Sonal-thakur-2631502b1)
 
-[Email](st2663899@gmail.com)
+[Email](mailto:st2663899@gmail.com)
