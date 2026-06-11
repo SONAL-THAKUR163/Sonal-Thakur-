@@ -39,7 +39,7 @@
 # 📊 GitHub Stats
 
 ![Sonal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SONAL-THAKUR163&show_icons=true&theme=radical)
-![GitHub Stars](https://img.shields.io/github/stars/SONAL-THAKUR163?style=blue)
+![GitHub Stars](https://img.shields.io/github/stars/SONAL-THAKUR163?style=social&color=blue)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonal-Thakur163&layout=compact&theme=tokyonight)
 
