@@ -39,7 +39,7 @@
 # 📊 GitHub Stats
 
 ![Sonal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SONAL-THAKUR163&show_icons=true&theme=radical&cache_seconds=60)
-![GitHub Stars](https://github-readme-stats.vercel.app/api?username=SONAL-THAKUR163&count_private=false&show_icons=true&theme=radical&hide=issues,contribs)
+![Total Stars](https://github-readme-stats.vercel.app/api?username=SONAL-THAKUR163&count_private=false&show_icons=false&theme=radical&hide=issues,contribs&include_all_commits=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonal-Thakur163&layout=compact&theme=tokyonight)
 
